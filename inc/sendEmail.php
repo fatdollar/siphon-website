@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'johnathan@siphon.tech';
+$siteOwnersEmail = 'support@siphon.tech';
 
 
 if($_POST) {
